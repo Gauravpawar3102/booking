@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Hotel = () => {
-  return <div>Hotel</div>;
+  return <div className="text-3xl font-bold underline">Hotel</div>;
 };
 
 export default Hotel;
